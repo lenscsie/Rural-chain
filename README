@@ -1,0 +1,1 @@
+main.m and main_mimo.m are the code files to run for 802.11b/g and 802.11n nodes respectively. All parameters of the simulations can be defined in these two files. main.m could be used for 802.11a with appropriate changes of parameters.
